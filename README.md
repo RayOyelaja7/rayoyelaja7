@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Ray, an IT Professional  
 
 <!--
 **RayOyelaja7/rayoyelaja7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
