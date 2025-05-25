@@ -1,4 +1,4 @@
-### Hi, I'm Ray, an  <a href="https://linkedin.com/in/ray-oyelaja">IT Professional</a>☺</h1>
+### Hi, I'm Ray, an  <a href="https://linkedin.com/in/ray-oyelaja">IT Professional</a>👨🏾</h1>
 
 
 
