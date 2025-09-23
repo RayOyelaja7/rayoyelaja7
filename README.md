@@ -15,6 +15,15 @@
 
 <h2>🐱‍👤 Cybersecurity Projects Portfolio:</h2>
 
+- <b>COGNISEC (AI Enhanced Security Scanner Tool)</b>
+  - [COGNISEC: Prerequuiste](https://github.com/rayoyelaja7/osticket-prereqs)
+  - [COGNISEC: Simple Scanner Tool](https://github.com/rayoyelaja7/post-install-config)
+  - [COGNISEC: AI Enhanced Scanner Tool](https://github.com/rayoyelaja7/ticket-lifecycle)
+- <b>GRC PROJECT on COGNISEC </b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/rayoyelaja7/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rayoyelaja7/azure-network-protocols)
+ 
+
 
 
 <h2>🤳🏾Connect with me:</h2>
